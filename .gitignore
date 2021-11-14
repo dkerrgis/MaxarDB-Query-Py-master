@@ -1,0 +1,9 @@
+settings.py
+*pyc
+*.pytest_cache/
+__pycache__/
+tests/test_data/
+make_fishnet.py
+test_fishnet.py
+multithreading_postgis.ipynb
+.ipynb_checkpoints/
